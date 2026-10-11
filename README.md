@@ -11,6 +11,8 @@
 > 
 > All visual art, audio stems, 3D character designs, trademarks, and story content remain the sole intellectual property of **Santioni Spirits** and **Active Theory**.
 
+🌐 **Live Demo:** [https://santioni-rev.vercel.app/](https://santioni-rev.vercel.app/)
+
 ---
 
 ## 🔬 Project Overview
